@@ -1,3 +1,35 @@
+Metadata-Version: 2.1
+Name: jservicepy
+Version: 1.0
+Summary: API wrapper for jService (comes with a commmand-line game implementation!)
+Home-page: https://github.com/SuperSonicHub1/jServicePy
+License: Public Domain
+Keywords: jService,jeopardy,api,python3,game
+Author: Kyle Anthony Williams
+Author-email: kyle.anthony.williams2@gmail.com
+Requires-Python: >=3.6
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: License :: Other/Proprietary License
+Classifier: License :: Public Domain
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Games/Entertainment
+Classifier: Typing :: Typed
+Requires-Dist: argparse (>=1.4.0,<2.0.0)
+Requires-Dist: datetime (>=4.3,<5.0)
+Requires-Dist: requests (>=2.24.0,<3.0.0)
+Requires-Dist: typing (>=3.7.4,<4.0.0)
+Project-URL: Repository, https://github.com/SuperSonicHub1/jServicePy
+Description-Content-Type: text/markdown
+
 # jServicePy
 API wrapper for jService (comes with a commmand-line game implementation!)
 
