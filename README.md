@@ -30,7 +30,7 @@ optional arguments:
                         Answer a NUMBER of random questions
   -v, --version         show program's version number and exit
 ```
-## Application Programming Interfacte Documentation
+## Application Programming Interface Documentation
 ### class jService
 #### __init__
 Initialize jService.
